@@ -1,6 +1,6 @@
 # Awesome Nerdy Songs
 The curated list of songs that has high quality and nerdy lyrics :) <br/>
-**You can view all songs in [YouTube Playlist](https://www.youtube.com/playlist?list=PLA6xCDN6uBAHYHERnO9s8Wb_F0oUYerCE)**
+**You can view all songs in [YouTube Playlist](https://www.youtube.com/playlist?list=PLA6xCDN6uBAHYHERnO9s8Wb_F0oUYerCE).**
 
 * [The Software Engineer Song](https://www.youtube.com/watch?v=y6NSdGL8czw&list=PLA6xCDN6uBAHYHERnO9s8Wb_F0oUYerCE)
 * [Linus said](https://www.youtube.com/watch?v=oHNKTlz1lps&list=PLA6xCDN6uBAHYHERnO9s8Wb_F0oUYerCE)
